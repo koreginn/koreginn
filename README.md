@@ -1,12 +1,9 @@
-## Hi 👋, I'm Ashot
+## Hi 👋, I'm Aleksandr Koregin
 
 ## I'm a JS Developer!
 
-- 🔭 I’m currently working on **Web Application**
-- 📫 How to reach me **9teron9@gmail.com**
-
-### 🎧 Spotify Playing 
-[<img src="https://novatorem.9teron9.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/evtovqamnwp1kjyfw91nvvyhh?si=A0pQpJs1S72POeqTsEarYw)
+- 🔭 I’m currently working on **Yelm Media**
+- 📫 How to reach me **the.koregin@yandex.ru** or telegrem **@koreginn@**
 
 ### 💻 Tech Stack:
 
