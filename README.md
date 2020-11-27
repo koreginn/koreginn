@@ -3,7 +3,7 @@
 ## I'm a JS Developer!
 
 - 🔭 I’m currently working on **Yelm Media**
-- 📫 How to reach me **the.koregin@yandex.ru** or telegrem **@koreginn**
+- 📫 How to reach me **the.koregin@yandex.ru** or telegram **@koreginn**
 
 ### 💻 Tech Stack:
 
