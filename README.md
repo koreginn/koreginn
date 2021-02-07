@@ -8,8 +8,3 @@
 ## My statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=koreginn&count_private=true&hide=contribs,stars&theme=dracula&show_icons=true)
-
-
-## Code time
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koreginn)](https://github.com/anuraghazra/github-readme-stats)
