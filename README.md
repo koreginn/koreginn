@@ -15,6 +15,7 @@
 
 ### Languages and Tools (Backend)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
+![PhpMyAdmin](https://img.shields.io/badge/-PhpMyAdmin-090909?style=for-the-badge&logo=PhpMyAdmin)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=8b92bd)
 ![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel&logoColor=ff2d21)
 ![Socket.IO](https://img.shields.io/badge/-SocketIO-090909?style=for-the-badge&logo=socket.io&logoColor=ffffff)
