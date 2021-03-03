@@ -2,6 +2,15 @@
 
 ## I'm a FullStack Web-Developer!
 
+<div style="display: flex;justify-content: space-between;align-items: center;">
+    <div style="display: flex;flex-direction: column;">
+        - 🔭  I’m currently working on **Yelm Media**
+        - 📫. How to reach me **the.koregin@yandex.ru** or telegram **@koreginn**
+    <div>
+        <img src="images/cat.gif" width=20%>
+    </div>
+</div>
+
 - 🔭  I’m currently working on **Yelm Media**
 - 📫. How to reach me **the.koregin@yandex.ru** or telegram **@koreginn**
 
