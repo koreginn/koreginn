@@ -28,6 +28,6 @@
 
  <img src="https://github.com/koreginn/koreginn/blob/main/images/stat.svg" alt="My statistics Wakatime">
  
+ ### GIF
+ 
  <img src="images/minion.gif" width=100%>
-
-### GIF
