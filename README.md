@@ -12,6 +12,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=00648B)
 ![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel&logoColor=00648B)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=00648B)
 
 ## My statistics
 
