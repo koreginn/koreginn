@@ -1,10 +1,11 @@
 ## Hi 👋 , I'm Aleksandr Koregin
 
-## I'm a FullStack WebDeveloper!
+## I'm a FullStack Web-Developer!
 
 - 🔭  I’m currently working on **Yelm Media**
 - 📫. How to reach me **the.koregin@yandex.ru** or telegram **@koreginn**
 
 ## My statistics
 
-![](https://github-readme-stats.vercel.app/api?username=koreginn&count_private=true&hide=contribs,stars&theme=dracula&show_icons=true)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koreginn)](https://github.com/anuraghazra/github-readme-stats)
+
