@@ -7,4 +7,4 @@
 
 ## My statistics
 
-<img src="https://github.com/koregin/koreginn/blob/main/images/stat.svg" alt="My statistics Wakatime"/>
+<img src="https://github.com/koreginn/koreginn/blob/main/images/stat.svg" alt="My statistics Wakatime"/>
