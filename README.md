@@ -7,4 +7,4 @@
 
 ## My statistics
 
-<img style="background-color: #ffff;" src="https://github.com/koreginn/koreginn/blob/main/images/stat.svg" alt="My statistics Wakatime"/>
+<img style="max-width:100%;background-color: #ffff;" src="https://github.com/koreginn/koreginn/blob/main/images/stat.svg" alt="My statistics Wakatime"/>
