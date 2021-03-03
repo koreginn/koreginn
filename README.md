@@ -26,6 +26,6 @@
 ![Composer](https://img.shields.io/badge/-Composer-090909?style=for-the-badge&logo=Composer)
 ![WebPack](https://img.shields.io/badge/-WebPack-090909?style=for-the-badge&logo=WebPack)
 
-## My statistics
+## My statistics by Wakatime
 
  <img src="https://github.com/koreginn/koreginn/blob/main/images/stat.svg" alt="My statistics Wakatime">
