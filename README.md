@@ -2,6 +2,14 @@
 
 ## I'm a FullStack Web-Developer!
 
+<a href="#">
+  - 🔭  I’m currently working on **Yelm Media**
+  - 📫. How to reach me **the.koregin@yandex.ru** or telegram **@koreginn**
+</a>
+<a href="#">
+  <img src="images/cat.gif" width=20%>
+</a>
+
 - 🔭  I’m currently working on **Yelm Media**
 - 📫. How to reach me **the.koregin@yandex.ru** or telegram **@koreginn**
 
