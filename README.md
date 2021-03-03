@@ -17,8 +17,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=8b92bd)
 ![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel&logoColor=ff2d21)
-![Socket.IO](https://img.shields.io/badge/-SocketIO-090909?style=for-the-badge&logo=socket&logoColor=ffffff)
-![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=NodeJS&logoColor=8cc501)
+![Socket.IO](https://img.shields.io/badge/-SocketIO-090909?style=for-the-badge&logo=socket.io&logoColor=ffffff)
+![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=Node.JS&logoColor=8cc501)
 
 ### Languages and Tools (General)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=519ee6)
