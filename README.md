@@ -10,8 +10,8 @@
 ### Languages and Tools (Frontend)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![jQuery](https://img.shields.io/badge/-jQuery-090909?style=for-the-badge&logo=jQuery&logoColor=ff802e)
-![VueJS](https://img.shields.io/badge/-VueJS-090909?style=for-the-badge&logo=VueJS&logoColor=47d08f)
-![NuxtJS](https://img.shields.io/badge/-NuxtJS-090909?style=for-the-badge&logo=NuxtJS&logoColor=47d08f)
+![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue&logoColor=47d08f)
+![Nuxt](https://img.shields.io/badge/-Nuxt-090909?style=for-the-badge&logo=Nuxt&logoColor=47d08f)
 
 ### Languages and Tools (Backend)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
