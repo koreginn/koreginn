@@ -4,8 +4,6 @@
 - 🔭  I’m currently working on **Yelm Media**
 - 📫. How to reach me **the.koregin@yandex.ru** or telegram **@koreginn**
 
-<img src="images/minion.gif" width=100%>
-
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![jQuery](https://img.shields.io/badge/-jQuery-090909?style=for-the-badge&logo=jQuery&logoColor=ff802e)
@@ -29,3 +27,5 @@
 ## My statistics by Wakatime
 
  <img src="https://github.com/koreginn/koreginn/blob/main/images/stat.svg" alt="My statistics Wakatime">
+ 
+ <img src="images/minion.gif" width=100%>
