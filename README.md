@@ -2,7 +2,6 @@
 
 - 👨‍💻 I'm a FullStack Web-Developer!
 - 🔭  I’m currently working on **PIK-Arenda**
-- 📫. How to reach me **the.koregin@yandex.ru** or telegram **@koreginn**
 
 ## Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
