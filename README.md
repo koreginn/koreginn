@@ -1,7 +1,7 @@
 ## Hi 👋 , I'm Aleksandr Koregin
 
 - 👨‍💻 I'm a FullStack Web-Developer!
-- 🔭  I’m currently working on **Yelm Media**
+- 🔭  I’m currently working on **PIK-Arenda**
 - 📫. How to reach me **the.koregin@yandex.ru** or telegram **@koreginn**
 
 ## Frontend
