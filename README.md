@@ -23,6 +23,10 @@
 ![Composer](https://img.shields.io/badge/-Composer-090909?style=for-the-badge&logo=Composer)
 ![WebPack](https://img.shields.io/badge/-WebPack-090909?style=for-the-badge&logo=WebPack)
  
+## Social
+
+<a href="https://vk.com/koreginn" target="_blank"><img src="https://img.shields.io/badge/%D0%B2%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="Вконтакте"></a>
+ 
 ##
  
 <img src="images/php-laravel.gif" width=100%>
