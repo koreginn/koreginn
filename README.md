@@ -1,6 +1,6 @@
 ## Hi 👋 , I'm Aleksandr Koregin
 
-- 👨‍💻 I'm a FullStack Web-Developer!
+- 👨‍💻 I'm a BackEnd Developer!
 - 🔭  I’m currently working on **FUN&SUN**
 
 ## Frontend
