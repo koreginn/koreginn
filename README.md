@@ -1,6 +1,6 @@
 ## Hi 👋 , I'm Aleksandr Koregin
 
-- 👨‍💻 I'm a BackEnd Developer!
+- 👨‍💻 I'm a Backend Developer!
 - 🔭  I’m currently working on **FUN&SUN**
 
 ## Frontend
