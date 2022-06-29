@@ -33,4 +33,4 @@
 
 ##
  
-<img src="images/php-laravel.gif" width=100%>
+<img src="images/minion.gif" width=100%>
