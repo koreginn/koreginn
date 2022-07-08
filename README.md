@@ -1,7 +1,7 @@
 ## Hi 👋 , I'm Aleksandr Koregin
 
 - 👨‍💻 I'm a Backend Developer!
-- 🔭  I’m currently working on **NordWind Airlines**
+- 🔭  I’m currently working on **Nordwind Airlines**
 
 ## Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
